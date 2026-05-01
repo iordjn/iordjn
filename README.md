@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hey!👋
 
-<!--
-**iordjn/iordjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Jordin, a current student born and raised in the United States.
+I like bring ideas into real life.
 
-Here are some ideas to get you started:
+**Languages:**  
+Python, JavaScript, PHP, SQL, HTML/CSS, Java, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks / Tools:**  
+Vue.js, OpenCV, Scikit-learn, Node.js
+
+**Libraries:**  
+Pandas, NumPy, Matplotlib  
+
+**Databases:**  
+MySQL, SQL Server  
+
+**Tools:**  
+Git, VS Code, Visual Studio, Excel  
+
+
+## 📊 Interests  
+- Computer Vision Applications  
+- Full-stack Web Development
+- Machine Learning & Predictive Modeling
+- Real-world software systems
+
+## 📫 Contact
+- Email: cjordin845@gmail.com  
