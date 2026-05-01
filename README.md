@@ -1,7 +1,7 @@
 ## Hey!👋
 
 Im Jordin, a current student born and raised in the United States.
-I like bring ideas into real life.
+I like bringing ideas into real life.
 
 **Languages:**  
 Python, JavaScript, PHP, SQL, HTML/CSS, Java, C#
