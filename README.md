@@ -20,10 +20,10 @@ Git, VS Code, Visual Studio, Excel
 
 
 ## 📊 Interests  
-- Computer Vision Applications  
-- Full-stack Web Development
-- Machine Learning & Predictive Modeling
 - Real-world software systems
+-  Full-stack Web Development
+- Computer Vision Applications
+- Machine Learning & Predictive Modeling
 
 ## 📫 Contact
 - Email: cjordin845@gmail.com  
