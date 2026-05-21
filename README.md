@@ -26,4 +26,5 @@ Git, VS Code, Visual Studio, Excel
 - Machine Learning & Predictive Modeling
 
 ## 📫 Contact
-- Email: cjordin845@gmail.com  
+- Email: cjordin845@gmail.com
+- Discord: iordjn
