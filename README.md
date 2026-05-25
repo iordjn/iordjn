@@ -1,7 +1,7 @@
 
 # Jordin Chavez
  
-Computer Programming AAS at the SCTCC<br>
+Computer Programming AAS at SCTCC<br>
 
 ---
 
