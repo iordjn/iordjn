@@ -1,15 +1,16 @@
 
 # Jordin Chavez
- 
+
 Computer Programming AAS at SCTCC<br>
 
 ---
 
 ## Interests
-- Real-world software systems
--  Full-stack Web Development
-- Computer Vision Applications
-- Machine Learning & Predictive Modeling
+- Full-stack Web Development
+- Programming languages
+- Algorithms
+- Operating systems
+- Computer vision applications
 
 ---
 
