@@ -1,5 +1,5 @@
 
-# Jordin Chavez
+# [Jordin Chavez](https://iordjn.github.io/Jordin-Portfolio/)
 
 Computer Programming AAS at SCTCC<br>
 
